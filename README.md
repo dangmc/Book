@@ -4,3 +4,5 @@ http://stockage.univ-brest.fr/~herbette/Tmp/Jake_VanderPlas_Python_Data_Science_
 https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
 # Building Machine Learning System
 http://barbra-coco.dyndns.org/yuri/Python/Building-Machine-Learning-Systems-Python-ebook%20(1).pdf
+# Maintain Machine Learning Model
+https://medium.com/ibm-watson-data-lab/keeping-your-machine-learning-models-up-to-date-f1ead546591b
