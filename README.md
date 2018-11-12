@@ -6,3 +6,6 @@ https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
 http://barbra-coco.dyndns.org/yuri/Python/Building-Machine-Learning-Systems-Python-ebook%20(1).pdf
 # Maintain Machine Learning Model
 https://medium.com/ibm-watson-data-lab/keeping-your-machine-learning-models-up-to-date-f1ead546591b
+
+# Interactive machine learning
+http://www.cs.princeton.edu/~fiebrink/drop/finalthesis/RebeccaFiebrinkThesisPQ.pdf
